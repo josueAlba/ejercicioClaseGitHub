@@ -3,6 +3,11 @@
 <body>
 Hola mundito
 Bienvenidos
+<<<<<<< HEAD
 NUEVA LINEA DE CODIGO
+=======
+Git Hub y Git	
+ch ch ch pudrete
+>>>>>>> 661ef1f3aa11dae9f08e2960aca18b693561ae5f
 </body>
 </html>
